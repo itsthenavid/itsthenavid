@@ -4,19 +4,18 @@
 ---
 
 ### 🚀 About Me
-I am a Kurdish and Iranian developer and programmer, specializing in web development — particularly back-end engineering with Python and the Django framework. Currently, I’m also deepening my expertise in Flutter to enhance my design skills and bring the art in my mind to life through code.
+I'm a Kurdish and Iranian developer and programmer, specializing in web development — particularly back-end engineering with Python and the Django framework. Currently, I’m also deepening my expertise in Flutter to enhance my design skills and bring the art in my mind to life through code.
 
 I believe the infinite world of computer engineering is not cold or soulless — there’s a place for art here, too. By pushing the boundaries of this field, we can offer more creative, beautiful, and impactful contributions to the world. Contributions that are not just functional, but artistic — with their own sense of aesthetic.
 
-Ethics can be visualized through art. And art, in turn, can be fused with vivid, elegant code. This is where the things we create become rooted in deeper meanings — like freedom of expression."
+Ethics can be visualized through art. And art, in turn, can be fused with vivid, elegant code. This is where the things we create become rooted in deeper meanings — like freedom of expression.
 
 ---
 
 ### 🧠 What Drives Me
 
 - 🔍 Exploring the boundaries between **AI**, **Design**, and **Providing useful services to the community**
-- 🎧 Inspired by the visual philosophy of **pgLang** & the introspective complexity of **Kendrick Lamar**
-- 💡 Obsessive about creating **clean UIs**, **modular systems**, and **scalable architecture**
+- 💡 Obsessive about creating **clean & minimalistic UIs**, **modular systems**, and **scalable architecture**
 - 🧱 Currently diving deep into the **"Auditorium," the Ideas & Opinions Open Source** project.
 - 🛠️ Future plans? Build tools that *feel* and *serve deeply,*—not just function.
 
