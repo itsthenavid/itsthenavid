@@ -14,8 +14,8 @@ Ethics can be visualized through art. And art, in turn, can be fused with vivid,
 
 ### 🧠 What Drives Me
 
-- 🔍 Exploring the boundaries between **AI**, **Design**, and **Providing useful services to the community**
-- 💡 Obsessive about creating **clean, meaningful, creative & minimalistic UIs**, **modular systems**, and **scalable architecture**
+- 🔍 Exploring the boundaries between **AI**, **Design**, and **Providing useful services to the community**.
+- 💡 Obsessive about creating **clean, meaningful, creative & minimalistic UIs**, **modular systems**, and **scalable architecture**.
 - 🧱 Currently diving deep into the **"Auditorium," the Ideas & Opinions Open Source** project.
 - 🛠️ Future plans? Build tools that *feel* and *serve deeply,*—not just function.
 
